@@ -1,1 +1,1 @@
-# Algotitmos
+En este proyecto se implementaron varios algoritmos avanzados para encontrar la manera mas optima de conectar una ciudad en base a su fibra optica. La ciudad fue representada usando una estructura de datos. Tambien se encontro el maximo flujo. Me gusto mucho este proyecto ya que saber sobre estos algortimos me hace seguro de mi mismo para atacar problemas verdaderos.
